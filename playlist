@@ -1,4 +1,6 @@
-
+******BRI Liga 1******
+#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/liga1-logo.png" group-title="Live Event",BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1674565329~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=15f48a0affc591d0ab487037a62d6692c1ffe6593d655dcba0fa0631c61ce2a4/vp9/205_stream.mpd
 
 ******Nasional*******
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
