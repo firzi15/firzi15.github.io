@@ -1,10 +1,8 @@
 #EXTM3U
 
 ##LIVE EVENT##
-#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" group-title="Live Event",[08.00] Minnesota Timberwolves vs Houston Rockets - NBA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=OTc5NmJlMzAyZDYwZGNlNFFOendYWkRBd3VPUkNsb1lUNGp1MWZoeHAvek1WZjhZTWNCdnZqcnNReXlvTXhDOUdlVEQybTcvc1V5d3pjSFN2MWUyL0NIMjdPMDBnbE1wR0dkTzZ3PT0=
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+#EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" group-title="Live Event",BRI Liga 1
+https://etslive-2-vidio-com.akamaized.net/exp=1674565329~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=15f48a0affc591d0ab487037a62d6692c1ffe6593d655dcba0fa0631c61ce2a4/vp9/205_stream.mpd
 
 ###TV NASIONAL###
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
