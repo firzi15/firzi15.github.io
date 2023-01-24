@@ -1,4 +1,11 @@
-ini#EXTM3U
+#EXTM3U
+
+##LIVE EVENT##
+#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" group-title="Live Event",[08.00] Minnesota Timberwolves vs Houston Rockets - NBA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=OTc5NmJlMzAyZDYwZGNlNFFOendYWkRBd3VPUkNsb1lUNGp1MWZoeHAvek1WZjhZTWNCdnZqcnNReXlvTXhDOUdlVEQybTcvc1V5d3pjSFN2MWUyL0NIMjdPMDBnbE1wR0dkTzZ3PT0=
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+
 ###TV NASIONAL###
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
