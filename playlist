@@ -2,7 +2,7 @@
 
 ##LIVE EVENT##
 #EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/thmb-liga1.png" group-title="Live Event",BRI Liga 1
-https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674742687-0-0-17250638f07b4a8fa417806a2dc24359&user_session_id=4932b9a3751307f2c6c207945fcf674f
+http://geocities.ws/ariev7xx/indosiar.m3u8
 
 ###TV NASIONAL###
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -57,7 +57,7 @@ https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tv-name="O Channel" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/ochannel.png", O Channel
+#EXTINF:-1 tv-name="Moji Tv" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/firzi15/stb21/main/playlist/thmb/mojitv.png", MOJI TV
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=OChannel
 
 
